@@ -22,7 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![bDesktop version of the completed project](./images/QR-component-complete-browser.jpg)
-![Mobile version of the completed project](./images/QR-component-complete-mobile.png)
+
+<img src="./images/QR-component-complete-mobile.png" alt="The mobile version of the completed project" width="400px">
 
 ### Links
 
